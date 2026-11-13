@@ -192,4 +192,4 @@ This repository serves as the official landing page for Spider-Man The Movie Gam
 **Get the most recent version of Spider-Man The Movie Game today!**
 
 ---
-**Last updated:** 2026-11-13 14:04:40 UTC
+**Last updated:** 2026-11-13 21:14:07 UTC
